@@ -1,0 +1,6 @@
+C:\Users\Boogie\source\repos\fileCounter\fileCounter\bin\Debug\fileCounter.exe.config
+C:\Users\Boogie\source\repos\fileCounter\fileCounter\bin\Debug\fileCounter.exe
+C:\Users\Boogie\source\repos\fileCounter\fileCounter\bin\Debug\fileCounter.pdb
+C:\Users\Boogie\source\repos\fileCounter\fileCounter\obj\Debug\fileCounter.csprojAssemblyReference.cache
+C:\Users\Boogie\source\repos\fileCounter\fileCounter\obj\Debug\fileCounter.exe
+C:\Users\Boogie\source\repos\fileCounter\fileCounter\obj\Debug\fileCounter.pdb
